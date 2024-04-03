@@ -8,7 +8,7 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Zulfikar Annur Ahmad (ꦗꦸꦭ꧀ꦥꦶꦏꦂ)
+    name: Zulfikar Annur Ahmad
     tagline: #
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -42,17 +42,17 @@ sidebar:
         - idiom: English
           level: Professional
 
-    interests:
-      title: Interests
-      info:
-        - item: Mountaineering
-          link:
+    # interests:
+    #   title: Interests
+    #   info:
+    #     - item: Mountaineering
+    #       link:
 
-        - item: Traditional Art (Pengrawit)
-          link:
+    #     - item: Traditional Art (Pengrawit)
+    #       link:
         
-        - item: Electronics
-          link:
+    #     - item: Electronics
+    #       link:
 
 career-profile:
     title: Career Profile
@@ -92,6 +92,14 @@ career-profile:
 experiences:
   title: Experiences
   info:
+    - role: Software Engineer
+      time: Feb 2024 - Current
+      company: Ringkas
+      details: |
+        I joined Ringkas to help the company build their core system.
+
+        Ringkas is a company that provide platform to make home 
+        ownership more accessible and easy to manage.
     - role: Senior Software Engineer
       time: Oct 2022 - Jan 2024
       company: Xendit, PT Sinar Digital Terdepan
@@ -105,11 +113,11 @@ experiences:
           This enable the data to be consumed by internal transaction monitoring system,
           which will alert the potential fraudulent transaction.
         - Design a system to dynamically calculate the audit result for government body.
-        - Improve the cards transaction monitoting by implement the notification
+        - Improve the cards transaction monitoring by implement the notification
           for Internal Audit Team if a merchant is predicted to breach the limit already set.
 
         Also in term of technical debt solving, I have delivered:
-        - Eleiminate all CVA vulnerability for service owned by team team.
+        - Eliminate all CVA vulnerability for service owned by team team.
           This is crucial to make sure the service  are safe to be deployed.
         - Evaluate the legacy API usage and create a technical plan to deprecate unused sservice.
     - role: Junior Engineering Manager
@@ -132,7 +140,7 @@ experiences:
         - Become an interface for business stakeholder
         - Collaborate to make sure the multi-month timeline is delivered
         - Accounting for SLA and SLO achievement
-        - Running the hiring pipeline process and do technical assesment
+        - Running the hiring pipeline process and do technical assessment
     - role: Tech Lead
       time: June 2021 - May 2022
       company: Xendit, PT Sinar Digital Terdepan
@@ -155,12 +163,12 @@ experiences:
       company: Xendit, PT Sinar Digital Terdepan
       details: |
         I become full time engineer and work across different scope, such as;
-          - Processing of payment channel creation administatation for a merchant
+          - Processing of payment channel creation administration for a merchant
           - Building interface for merchant to track the status of payout request
           - Handling intermittent Virtual Account issue
           - Help senior engineer to work on payment channel integration with one of Indonesia bank
           - Building new payout integration with one of Indonesia bank
-          - Building from stratch, including meeting with the partner directly, to integrate one of the largest retail outlet in Indonesia
+          - Building from zero, including meeting with the partner directly, to integrate one of the largest retail outlet in Indonesia
     - role: Internship
       time: August 2017 - September 2017
       company: Xendit, PT Sinar Digital Terdepan
