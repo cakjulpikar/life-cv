@@ -93,13 +93,18 @@ experiences:
   title: Experiences
   info:
     - role: Software Engineer
-      time: Feb 2024 - Current
+      time: Feb 2024 - Apr 2024
       company: Ringkas
       details: |
         I joined Ringkas to help the company build their core system.
 
         Ringkas is a company that provide platform to make home 
         ownership more accessible and easy to manage.
+    - role: Break
+      time: Jan 2024 - Feb 2024
+      company: Personal
+      details: |
+        I took a break on this period 
     - role: Senior Software Engineer
       time: Oct 2022 - Jan 2024
       company: Xendit, PT Sinar Digital Terdepan
