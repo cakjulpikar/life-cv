@@ -92,6 +92,11 @@ career-profile:
 experiences:
   title: Experiences
   info:
+    - role: System Engineer
+      time: May 2024 - Present
+      company: Brankas
+      details: |
+        Brankas is a company that provide modern OpenAPI for financial institution.
     - role: Software Engineer
       time: Feb 2024 - Apr 2024
       company: Ringkas
