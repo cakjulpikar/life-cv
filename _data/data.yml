@@ -92,6 +92,11 @@ career-profile:
 experiences:
   title: Experiences
   info:
+    - role: System Engineer
+      time: May 2024 - Present
+      company: Brankas
+      details: |
+        Brankas is a company that provide modern OpenAPI for financial institution.
     - role: Software Engineer
       time: Feb 2024 - Apr 2024
       company: Ringkas
@@ -218,7 +223,7 @@ publications:
     intro: |
       These are the publications I've authored, encompassing my thesis, scientific journals, and technical articles.
     papers:
-      - title: Deskripsi Tingkat Komitmen Organisasional Anggota Himpunan Mahasiswa Islam (HMI) Komisariat Ekonomi Bisnis Universitas Brawijaya Malang Berdasarkan Teori Three-Component Model OfCommitment Allen-Meyer
+      - title: Deskripsi Tingkat Komitmen Organisasional Anggota Himpunan Mahasiswa Islam (HMI) Komisariat Ekonomi Bisnis Universitas Brawijaya Malang Berdasarkan Teori Three-Component Model Of Commitment Allen-Meyer
         authors: Zulfikar Annur Ahmad
         conference: Thesis Defense in January 2017 at the Sekolah Tinggi Ilmu Dakwah Al-Hadid Yayasan Al-Kahfi, Surabaya
 
