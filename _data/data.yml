@@ -59,27 +59,21 @@ career-profile:
     summary: |
       Family-oriented individual, proud father of one daughter, and dedicated husband. 
       I enjoy as an accomplished mountain explorer with a track record of exploring four peaks, 
-      complemented by learning to become pengrawit.
+      and I love to tinker stuff and entertain idea.
 
-      In my 6-year tenure shaping Southeast Asia's payment system, 
+      In my 6-year tenure as software engineer and manager side by side with business stakeholders, 
       I've honed my expertise in designing microservices using tools like PlantUML and adhering to principles such as Domain-Driven Design. 
       My development skills encompass technologies like Node.js, TypeScript, Golang, Python, and databases including PostgreSQL and MongoDB. 
-      I've successfully orchestrated collaborations with diverse payment partners, 
-      ensuring seamless integration through effective communication and rigorous testing.
+      I've experienced to communicate directly with payment partners,
+      as part of the business development process, to integrate their services with our platform.
 
-      Within the realm of data management, I've adeptly managed pipelines using Airflow and Databricks, 
-      facilitating the dissemination of critical information to both business users and applications. 
-      As a seasoned team leader, I strike a balance between timely product delivery and addressing technical challenges.
+      Within the realm of data management, I've experienced managing pipelines using Airflow and Databricks, 
+      facilitating the avaibility of information to both business users and applications. 
 
       Accustomed to remote work and adept at coordinating tasks across multiple time zones, 
       I excel in organizing and prioritizing tasks to propel our collective progress in the right direction.
-
-      In the domain of microservices development, my expertise extends to utilizing Go and Node.js, 
-      leveraging methodologies such as test-driven development (TDD) and agile practices. 
-      Proficient in Git for version control, I craft technical specifications for implementation guidance.
-
-      My proficiency in handling complex data structures and creating clear data visualizations using Databricks,
-      is complemented by the ability to generate concise product performance reports, providing key insights for informed decision-making.
+      Making usre that organizational problem are solved with the correct approach,
+      while keeping the technical debt in check.
 
       Navigating through complex architectures involving REST APIs and event-based systems, 
       I operate CI/CD tools, including Buddy.Works, Terraform, Kubernetes, Docker, and Helm. 
