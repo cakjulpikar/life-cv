@@ -104,28 +104,8 @@ experiences:
       company: Personal
       details: |
         I took a break on this period 
-    - role: Software Engineer
-      time: Oct 2022 - Jan 2024
-      company: Xendit, PT Sinar Digital Terdepan
-      details: |
-        I took the chance in the crisis to hone my technical skill.
-        
-        The solution I deliver using technical capability are:
-        - Data pipeline integration from Databrick's Data Lake to Kafka Broker,
-          using Python to build the SQL query and transform to message event.
-          Utilizing Apache Airflow to manage the notebook running in Databrick.
-          This enable the data to be consumed by internal transaction monitoring system,
-          which will alert the potential fraudulent transaction.
-        - Design a system to dynamically calculate the audit result for government body.
-        - Improve the cards transaction monitoring by implement the notification
-          for Internal Audit Team if a merchant is predicted to breach the limit already set.
-
-        Also in term of technical debt solving, I have delivered:
-        - Eliminate all CVA vulnerability for service owned by team team.
-          This is crucial to make sure the service  are safe to be deployed.
-        - Evaluate the legacy API usage and create a technical plan to deprecate unused sservice.
     - role: Junior Engineering Manager
-      time: May 2022 - Oct 2022
+      time: May 2022 - Jan 2024
       company: Xendit, PT Sinar Digital Terdepan
       details: |
         Promoted to become Junior Engineering Manager,
@@ -145,6 +125,22 @@ experiences:
         - Collaborate to make sure the multi-month timeline is delivered
         - Accounting for SLA and SLO achievement
         - Running the hiring pipeline process and do technical assessment
+
+        While handling managerial and business domain, I also involved in technical domain, such as;
+
+        - Data pipeline integration from Databrick's Data Lake to Kafka Broker,
+          using Python to build the SQL query and transform to message event.
+          Utilizing Apache Airflow to manage the notebook running in Databrick.
+          This enable the data to be consumed by internal transaction monitoring system,
+          which will alert the potential fraudulent transaction.
+        - Design a system to dynamically calculate the audit result for government body.
+        - Improve the cards transaction monitoring by implement the notification
+          for Internal Audit Team if a merchant is predicted to breach the limit already set.
+
+        Also in term of technical debt solving, I have delivered:
+        - Eliminate all CVA vulnerability for service owned by team team.
+          This is crucial to make sure the service  are safe to be deployed.
+        - Evaluate the legacy API usage and create a technical plan to deprecate unused sservice.
     - role: Tech Lead
       time: June 2021 - May 2022
       company: Xendit, PT Sinar Digital Terdepan
