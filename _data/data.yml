@@ -1,0 +1,252 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    position: right # position of the sidebar : left or right
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Zulfikar Annur Ahmad
+    tagline: #
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: elayang@cakjulpikar.id
+    phone: # hidden
+    timezone: Asia/Jakarta Timezone
+    citizenship: Indonesian
+    website: cakjulpikar.id #do not add http://
+    linkedin: cakjulpikar
+    xing: # TBD
+    github: cakjulpikar
+    telegram: # add your nickname without '@' sign
+    gitlab: cakjulpikar
+    bitbucket:
+    twitter: '@cakjulpikar'
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+    pdf: # TBD
+
+    languages:
+      title: Languages
+      info:
+        - idiom: Jawa (ꦗꦮ)
+          level: Native
+
+        - idiom: Bahasa Indonesia
+          level: Native
+
+        - idiom: English
+          level: Professional
+
+    # interests:
+    #   title: Interests
+    #   info:
+    #     - item: Mountaineering
+    #       link:
+
+    #     - item: Traditional Art (Pengrawit)
+    #       link:
+        
+    #     - item: Electronics
+    #       link:
+
+career-profile:
+    title: Career Profile
+    summary: |
+      Family-oriented individual and I love to tinker stuff and entertain idea.
+
+      In my 6-year tenure as software engineer and manager side by side with business stakeholders, 
+      I've honed my expertise in designing microservices using tools like PlantUML and adhering to principles such as Domain-Driven Design. 
+      My development skills encompass technologies like Node.js, TypeScript, Golang, Python, and databases including PostgreSQL and MongoDB. 
+      I've experienced to communicate directly with payment partners,
+      as part of the business development process, to integrate their services with our platform.
+
+      Within the realm of data management, I've experienced managing pipelines using Airflow and Databricks, 
+      facilitating the avaibility of information to both business users and applications. 
+
+      Accustomed to remote work and adept at coordinating tasks across multiple time zones, 
+      I excel in organizing and prioritizing tasks to propel our collective progress in the right direction.
+      Making usre that organizational problem are solved with the correct approach,
+      while keeping the technical debt in check.
+
+      Navigating through complex architectures involving REST APIs and event-based systems, 
+      I operate CI/CD tools, including Buddy.Works, Terraform, Kubernetes, Docker, and Helm. 
+      My structured testing approach spans from unit tests to comprehensive integration testing, 
+      with the capability to write Gherkin syntax for QA purposes.
+
+      This multifaceted skill set positions me as a versatile professional,
+      capable of tackling diverse challenges in software development and infrastructure management.
+
+experiences:
+  title: Experiences
+  info:
+    - role: Break
+      time: Jan 2024 - Present
+      company: Position eliminated / laid-off
+      details: |
+        I took a break on this period to take care of my family, enroll to course, and also to do some personal project.
+    - role: Junior Engineering Manager
+      time: May 2022 - Jan 2024
+      company: Xendit, PT Sinar Digital Terdepan
+      details: |
+        Promoted to become Junior Engineering Manager,
+        and managing multiple Tech Lead until the first lay-off wave.
+
+        The group domain which I manage called Internal Business Operations.
+        Which handle these domains:
+        - Internal financial operation optimization
+        - Internal financial audit and reporting
+        - Merchant lifecycle operation optimization
+        - Risk assessment and compliance reporting
+        - Sales enablement
+
+        And beside the responsibility of a Tech Lead,
+        the responsibility in this role is include:
+        - Become an interface for business stakeholder
+        - Collaborate to make sure the multi-month timeline is delivered
+        - Accounting for SLA and SLO achievement
+        - Running the hiring pipeline process and do technical assessment
+
+        While handling managerial and business domain, I also involved in technical domain, such as;
+
+        - Data pipeline integration from Databrick's Data Lake to Kafka Broker,
+          using Python to build the SQL query and transform to message event.
+          Utilizing Apache Airflow to manage the notebook running in Databrick.
+          This enable the data to be consumed by internal transaction monitoring system,
+          which will alert the potential fraudulent transaction.
+        - Design a system to dynamically calculate the audit result for government body.
+        - Improve the cards transaction monitoring by implement the notification
+          for Internal Audit Team if a merchant is predicted to breach the limit already set.
+
+        Also in term of technical debt solving, I have delivered:
+        - Eliminate all CVA vulnerability for service owned by team team.
+          This is crucial to make sure the service  are safe to be deployed.
+        - Evaluate the legacy API usage and create a technical plan to deprecate unused sservice.
+    - role: Tech Lead
+      time: June 2021 - May 2022
+      company: Xendit, PT Sinar Digital Terdepan
+      details: |
+        Step up to become lead for internal financial operation team,
+        which handle these processes:
+        - Observe end-to-end feature delivery process from defining problem until product monitoring.
+        - Write technical specification document for junior engineer to implement
+        - Review the feasibility of technical planning
+        - Conduct code review to catch the potential bug and suggesting code optimization
+
+        And also to observe these features:
+        - Internal User Interface to manage partners transaction under Xendit entities.
+        - Integration service to handle messaging between Xendit and financial partner.
+        - Forex transaction ledger
+        - Partner balance monitoring application
+        - Internal financial operations audit system
+    - role: Software Engineer
+      time: September 2017 - June 2021
+      company: Xendit, PT Sinar Digital Terdepan
+      details: |
+        I become full time engineer and work across different scope, such as;
+          - Processing of payment channel creation administration for a merchant
+          - Building interface for merchant to track the status of payout request
+          - Handling intermittent Virtual Account issue
+          - Help senior engineer to work on payment channel integration with one of Indonesia bank
+          - Building new payout integration with one of Indonesia bank
+          - Building from zero, including meeting with the partner directly, to integrate one of the largest retail outlet in Indonesia
+    - role: Internship
+      time: August 2017 - September 2017
+      company: Xendit, PT Sinar Digital Terdepan
+      details: |
+        I joined Xendit by referral from Hackiv8 Alumni.
+        I worked on automation and reliability project, such as;
+          - Working to automate internal bank management using RTGS interface from bank
+          - Do transfer operation automation using Python
+
+
+education:
+    title: Education & Course
+    info:
+      - degree: S.E (Bachelor of Economic)
+        university: Universitas Terbuka
+        time: February 2022 - Present
+        details: |
+          I am presently engaged in part-time studies (less than 10 hours per week) to serve as a role model for my daughter, 
+          emphasizing the importance of ongoing education.
+      - degree: Certificate of Immersive Fullstack Javascript Bootcamp
+        university: Hacktiv8 Pondok Indah Jakarta Selatan
+        time: February 2017 - August 2017
+        details: |
+          I joined this bootcamp as a transition from my childhood hobby of tinkering with computers and electronics. 
+          It laid the foundation for my IT career, covering essential aspects such as 
+          algorithms, debugging, designing logic flows and interfaces, databases, mobile applications, desktop front-end development, and cloud deployment management.
+      - degree: S.Sos (Bachelor of Social Science)
+        university: Sekolah Tinggi Ilmu Dakwah Al-Hadid Yayasan Al-Kahfi, Surabaya
+        time: June 2012 - February 2017
+        details: |
+          I'm awarded with scholarship from Yayasan Al Kahfi. 
+          Main focus of the study is on social enterprises and NGO organization strategy to achieve it's mission and maintain the related stakeholder.
+      - degree: High School Diploma - Natural Science
+        university: SMAN 1 Malang
+        time: June 2009 - June 2012
+        details: |
+          I took Natural Science program in High School, 
+          and joined organization such as Youth Red Cross and Islamic Studies Group.
+          
+publications:
+    title: Publications
+    intro: |
+      These are the publications I've authored, encompassing my thesis, scientific journals, and technical articles.
+    papers:
+      - title: Deskripsi Tingkat Komitmen Organisasional Anggota Himpunan Mahasiswa Islam (HMI) Komisariat Ekonomi Bisnis Universitas Brawijaya Malang Berdasarkan Teori Three-Component Model Of Commitment Allen-Meyer
+        authors: Zulfikar Annur Ahmad
+        conference: Thesis Defense in January 2017 at the Sekolah Tinggi Ilmu Dakwah Al-Hadid Yayasan Al-Kahfi, Surabaya
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Node.js
+        level: 95%
+
+      - name: Typescript
+        level: 80%
+
+      - name: GO
+        level: 80%
+
+      - name: Python
+        level: 80%
+
+      - name: Technical Writing
+        level: 80%
+
+      - name: PostgreSQL
+        level: 80%
+
+      - name: MongoDB
+        level: 80%
+      
+      - name: Black-box Testing
+        level: 75%
+
+      - name: Database Design
+        level: 75%
+
+      - name: SQL Query
+        level: 70%
+
+      - name: Domain Driven Design
+        level: 70%
+      
+      - name: Databricks
+        level: 65%
+      
+      - name: Amazon Web Service
+        level: 50%
+      
+      - name: React & React Native
+        level: 50%
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

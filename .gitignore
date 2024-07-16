@@ -1,0 +1,8 @@
+# Cache
+_site/
+_protected/
+.sass-cache/
+.jekyll-metadata
+.jekyll-cache
+
+node_modules/
